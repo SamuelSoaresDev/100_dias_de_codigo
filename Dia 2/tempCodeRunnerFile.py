@@ -1,0 +1,1 @@
+print("O resultado é: ", resultado)
