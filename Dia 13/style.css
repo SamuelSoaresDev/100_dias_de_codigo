@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+    font-family: 'Arial', sans-serif;
+}
+
+.digital-clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: brown;
+}
+
+#clock{
+    background-color: gray;
+    width: auto;
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px black 0.3;
+}
